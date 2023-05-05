@@ -1,0 +1,2 @@
+Open powershell and run "Set-ExecutionPolicy Unrestricted -Force"
+Once done, run with powershell as admin (drag and drop)
