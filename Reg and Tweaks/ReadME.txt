@@ -1,0 +1,1 @@
+Import the power plan with powercfg -import ""
