@@ -1,0 +1,3 @@
+Run first script "install volume activation"
+Edit second script and replace the product key with a generic kms key (Search online) FOR YOUR VERSION OTHERWISE IT WONT WORk (win + R type "winver")
+When online activate with the last script.

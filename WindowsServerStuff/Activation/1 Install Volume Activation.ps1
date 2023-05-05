@@ -1,0 +1,1 @@
+Install-WindowsFeature -Name VolumeActivation -IncludeAllSubFeature “IncludeManagementTools"
