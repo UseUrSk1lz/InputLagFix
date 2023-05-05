@@ -1,4 +1,4 @@
-# Input-Lag-Fix
+# Input-Lag-Tweaks
 Collection of every input lag tweak on the internet
 
 YES ALOT IS TIN FOIL AND YES IT WILL BREAK SOME STUFF USE ONLY FOR HARDCORE GAMING WINDOWS INSTALL
