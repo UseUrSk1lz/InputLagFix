@@ -23,3 +23,6 @@ Everything here assumes you already have some basic knowledge etc and is what I 
 
 In the case of others, in their files you can find their own watermarks which I have not deleted.
 
+
+
+***Please star if it helped you***
